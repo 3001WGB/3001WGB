@@ -5,7 +5,16 @@ title {
 body {
     color: beige;
     background-color: #444444;
+    padding-left: 1em;
 }
 p {
     color:bisque;
   }
+.title {
+    display: block;
+    padding-right: 2em;
+}
+#ad-learning-lab {
+    display: block;
+    padding-right: 2em;
+}
